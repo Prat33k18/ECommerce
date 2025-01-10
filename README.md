@@ -9,10 +9,6 @@
 ✨ Built with  Spring Boot, React + Spring Boot, and React + Node.js.
 
 
-## Server
-🔗 **Spring Boot**: [GitHub Link](https://github.com/ashok0001/e-commerce-server)
-🔗 **Node.js**: [GitHub Link](https://github.com/ashok0001/ecommerce-node)
-
 ## Table of Contents
 
 - [Features](#features)

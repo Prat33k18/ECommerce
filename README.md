@@ -6,10 +6,8 @@
 
 🚀 A full-stack eCommerce application built with React, Spring Boot, and Node.js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
 
-✨ Built with Angular + Spring Boot, React + Spring Boot, and React + Node.js.
+✨ Built with  Spring Boot, React + Spring Boot, and React + Node.js.
 
-## Client
-🔗 **Angular**: [GitHub Link](https://github.com/developer207/ecommerce-angular)
 
 ## Server
 🔗 **Spring Boot**: [GitHub Link](https://github.com/ashok0001/e-commerce-server)
@@ -26,7 +24,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-- [Screenshots](#screenshots)
+
 
 ## Features
 
@@ -37,9 +35,7 @@
 ✨ Order history and tracking.
 ✨ Admin panel to manage products, categories, and orders.
 
-## Demo
 
-🌐 [ShopWithparteek]()
 
 ## Technologies Used
 
@@ -59,10 +55,9 @@
 
 ## Installation
 
-1. 📥 Clone Frontend repository: `git clone https://github.com/prat33k18/E-com-fullstack.git`
-2. 📥 Clone Backend Repository: `git clone https://github.com/prat33k18/E-com-fullstack.git`
+1. 📥 Clone Frontend repository: `git clone https://github.com/prat33k18/ECommerce.git`
+2. 📥 Clone Backend Repository: `git clone https://github.com/prat33k18/ECommerce.git`
 3. 📂 Change directory Frontend: `cd `
-4. 📂 Change directory Backend: `cd e-commerce-server`
 5. ⚙️ Install frontend dependencies: `npm install`
 6. ⚙️ Update backend dependencies: Ensure all required dependencies in `pom.xml` are resolved by updating the project in your Spring Boot IDE.
 

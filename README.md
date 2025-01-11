@@ -87,25 +87,26 @@
 ## Screenshots
 
 ### 🏠 Home Carousel
-
+<img src ="src/Data/.jpg" alt ="Home" />
 
 ### 🎠 Multi Product Carousel
-
+<img src ="src/Data/Page.jpg" alt ="Home" />
 
 ### 🛒 Products Page
-
+<img src ="src/Data/Details.jpg" alt ="Home" />
 
 ### 🔍 Product Details Page
-
+<img src ="src/Data/Details.jpg" alt ="Home" />
 
 ### 🛒 Cart Page
+<img src ="src/Data/cart.jpg" alt ="Home" />
 
 
 ### 🚚 Add Shipping Address
-
+<img src ="src/Data/Deatils Cart.jpg" alt ="Home" />
 
 ### 🧾 Order Summary
+<img src ="src/Data/Order Deatils.jpg" alt ="Home" />
 
 
-### ✨ Rate and Review 
 

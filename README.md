@@ -12,11 +12,9 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -52,10 +50,9 @@
 ## Installation
 
 1. 📥 Clone Frontend repository: `git clone https://github.com/prat33k18/ECommerce.git`
-2. 📥 Clone Backend Repository: `git clone https://github.com/prat33k18/ECommerce.git`
-3. 📂 Change directory Frontend: `cd `
-5. ⚙️ Install frontend dependencies: `npm install`
-6. ⚙️ Update backend dependencies: Ensure all required dependencies in `pom.xml` are resolved by updating the project in your Spring Boot IDE.
+2. 📂 Change directory Frontend: `cd `
+3. ⚙️ Install frontend dependencies: `npm install`
+4. ⚙️ Backend is Not Uploaded
 
 ## Usage
 
@@ -87,26 +84,26 @@
 ## Screenshots
 
 ### 🏠 Home Carousel
-<img src ="src/Data/.jpg" alt ="Home" />
+<img src ="src/Data/fs.jpg" alt ="Home" />
 
 ### 🎠 Multi Product Carousel
-<img src ="src/Data/Page.jpg" alt ="Home" />
+<img src ="src/Data/Page.png" alt ="Home" />
 
 ### 🛒 Products Page
-<img src ="src/Data/Details.jpg" alt ="Home" />
+<img src ="src/Data/Details.png" alt ="Home" />
 
 ### 🔍 Product Details Page
-<img src ="src/Data/Details.jpg" alt ="Home" />
+<img src ="src/Data/Details.png" alt ="Home" />
 
 ### 🛒 Cart Page
-<img src ="src/Data/cart.jpg" alt ="Home" />
+<img src ="src/Data/cart.png" alt ="Home" />
 
 
 ### 🚚 Add Shipping Address
-<img src ="src/Data/Deatils Cart.jpg" alt ="Home" />
+<img src ="src/Data/Details Cart.png" alt ="Home" />
 
 ### 🧾 Order Summary
-<img src ="src/Data/Order Deatils.jpg" alt ="Home" />
+<img src ="src/Data/Order deatils.png" alt ="Home" />
 
 
 

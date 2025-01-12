@@ -4,9 +4,9 @@
 
 ## Description
 
-🚀 A full-stack eCommerce application built with React, Spring Boot, and Node.js. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
+🚀 A full-stack eCommerce application built with React and Spring Boot. The project aims to provide users with a seamless online shopping experience, featuring a responsive and user-friendly interface, a wide range of products, and secure payment options.
 
-✨ Built with  Spring Boot, React + Spring Boot, and React + Node.js.
+✨ Built with  Spring Boot, React + MySQL
 
 
 ## Table of Contents
@@ -98,6 +98,8 @@
 ### 🛒 Cart Page
 <img src ="src/Data/cart.png" alt ="Home" />
 
+### 🎯 Admin Panel
+<img src ="src/Data/Admin.png" alt ="Home" />
 
 ### 🚚 Add Shipping Address
 <img src ="src/Data/Details Cart.png" alt ="Home" />

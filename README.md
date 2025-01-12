@@ -22,12 +22,12 @@
 
 ## Features
 
-✨ User registration and authentication.
+<pre>✨ User registration and authentication.
 ✨ Browse through a variety of products in different categories.
 ✨ Add products to the cart and manage cart items.
 ✨ Checkout process with various payment options.
 ✨ Order history and tracking.
-✨ Admin panel to manage products, categories, and orders.
+✨ Admin panel to manage products, categories, and orders.</pre>
 
 
 

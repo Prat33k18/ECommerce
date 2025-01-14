@@ -78,7 +78,7 @@
 📧 If you have any questions or suggestions, feel free to contact me:
 
 - **Prateek**
-- ✉️ Email: prathikrk1803@gmail.com
+- ✉️ Email: prathikr1803@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/prathikr1803)
 
 ## Screenshots
